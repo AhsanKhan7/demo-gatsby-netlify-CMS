@@ -96,4 +96,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
+## Live version
+https://romantic-hermann-7b97ca.netlify.app/
+
 <!-- AUTO-GENERATED-CONTENT:END -->
